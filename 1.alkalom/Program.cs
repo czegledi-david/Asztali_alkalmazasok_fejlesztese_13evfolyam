@@ -6,10 +6,7 @@ namespace program
 
     class Alkalmazott
     {
-        //Publikus adattagok
-        //public string nev;
-        //public int fizetes;
-
+        
         private string nev;
         private int fizetes;
 
