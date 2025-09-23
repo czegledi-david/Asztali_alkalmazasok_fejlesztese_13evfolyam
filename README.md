@@ -6,44 +6,8 @@
 4. | Osztálydefiníció, referenciák, konstruktor. <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Csharp-gyak_04.pdf">FELADATOK</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Program.cs">MEGOLDÁS</a>
 
 
-<style>
-.table_component {
-    overflow: auto;
-    width: 100%;
-}
 
-.table_component table {
-    border: 1px solid #dededf;
-    height: 100%;
-    width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-    border-spacing: 1px;
-    text-align: left;
-}
-
-.table_component caption {
-    caption-side: top;
-    text-align: left;
-}
-
-.table_component th {
-    border: 1px solid #dededf;
-    background-color: #eceff1;
-    color: #000000;
-    padding: 5px;
-}
-
-.table_component td {
-    border: 1px solid #dededf;
-    background-color: #ffffff;
-    color: #000000;
-    padding: 5px;
-}
-</style>
-<div class="table_component" role="region" tabindex="0">
 <table>
-    <caption>Table 1</caption>
     <thead>
         <tr>
             <th>Alkalom</th>
