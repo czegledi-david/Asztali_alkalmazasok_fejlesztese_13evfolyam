@@ -1,0 +1,20 @@
+Feladatleírás:
+
+Készítsen Auto osztályt és hozzá használó osztályt.
+a) Az Auto osztály adattagjai: rendszám (szöveg), gyártási év (egész szám), motor térfogata (valós szám, literben megadva).
+
+Legyen egy metódusa, amely visszaadja az autó korát (2025 - gyártási év).
+
+Legyen egy metódusa, amely visszaadja a környezetvédelmi besorolást:
+
+„Régi” ha kor > 20 év
+
+„Átlagos” ha kor 10–20 év között van
+
+„Modern” ha kor < 10 év
+
+Legyen egy metódusa, amely egyetlen sztringbe összefűzi az adatokat: rendszám, gyártási év, motor térfogata, kor, besorolás.
+
+Írjon getter és setter metódusokat az adattagokhoz.
+
+b) Készítsen egy futtatható osztályt (Program), amelyben beolvassa több autó adatait (rendszám, gyártási év, motor térfogata), majd kiírja azokat a kiszámított korukkal és besorolásukkal együtt.
