@@ -1,2 +1,5 @@
-# Asztali-Alkalmaz-sok-Fejleszt-se-13-
-Itt megtalálható a 13.évfolyam tananyaga és segédletei.
+# Asztali Alkalmazások Fejlesztése és Tesztelése
+
+1. Osztálydefiníció és használat
+2. <a href="https://www.w3schools.com/git/default.asp?remote=github">Github alapok</href>
+
