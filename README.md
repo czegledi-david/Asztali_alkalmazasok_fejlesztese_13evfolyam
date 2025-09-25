@@ -16,7 +16,7 @@
         <tr>
             <td>2.</td>
             <td><a href="https://www.w3schools.com/git/default.asp?remote=github">Github alapok</a></td>
-            <td>-</td>
+            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/06cf98899bcc0f810260599a6f41c11ec9c33575/2.%20alkalom/Git.pdf">ppt</a></td>
         </tr>
         <tr>
             <td>3.</td>
