@@ -26,17 +26,17 @@
         <tr>
             <td>4.</td>
             <td>Osztálydefiníció, referenciák, konstruktor.</td>
-            <td>Osztálydefiníció, referenciák, konstruktor. <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Csharp-gyak_04.pdf">FELADATOK</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Program.cs">MEGOLDÁS</a></td>
+            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Csharp-gyak_04.pdf">FELADATOK</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/de0e0ddce30b02572229f22d01d06f2272395022/4.alkalom/Program.cs">MEGOLDÁS</a></td>
         </tr>
         <tr>
             <td>5.</td>
             <td>Dolgozat</td>
-            <td>Feladat | Megoldás</td>
+            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/f5c4a242d34d0ae51b96a4dae28c3d6fb815d913/5.alkalom/dolgozat.pdf">Feladat</a> | Megoldás</td>
         </tr>
         <tr>
             <td>6.</td>
             <td>Statikus és konstans tagok, metódus túlterhelés, this, névterek, dátumkezelés</td>
-            <td>Feladatok | Megoldás</td>
+            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/f5c4a242d34d0ae51b96a4dae28c3d6fb815d913/6.alkalom/Csharp-gyak_06.pdf">Feladatok</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/f5c4a242d34d0ae51b96a4dae28c3d6fb815d913/6.alkalom/Program.cs">Megoldás</a></td>
         </tr>
         <tr>
             <td>7.</td>
