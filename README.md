@@ -30,13 +30,13 @@
         </tr>
         <tr>
             <td>5.</td>
-            <td></td>
-            <td></td>
+            <td>Dolgozat</td>
+            <td>Feladat | Megoldás</td>
         </tr>
         <tr>
             <td>6.</td>
-            <td></td>
-            <td></td>
+            <td>Statikus és konstans tagok, metódus túlterhelés, this, névterek, dátumkezelés</td>
+            <td>Feladatok | Megoldás</td>
         </tr>
         <tr>
             <td>7.</td>
