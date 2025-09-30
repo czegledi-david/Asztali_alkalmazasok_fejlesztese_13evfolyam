@@ -31,7 +31,7 @@
         <tr>
             <td>5.</td>
             <td>Dolgozat</td>
-            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/f5c4a242d34d0ae51b96a4dae28c3d6fb815d913/5.alkalom/dolgozat.pdf">Feladat</a> | Megoldás</td>
+            <td><a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/f5c4a242d34d0ae51b96a4dae28c3d6fb815d913/5.alkalom/dolgozat.pdf">Feladat</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/c8b73b4eb09d932f6fd160ec96cb5d83e20af18a/5.alkalom/Megoldas.cs">Megoldás</a></td>
         </tr>
         <tr>
             <td>6.</td>
