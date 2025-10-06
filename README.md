@@ -40,8 +40,8 @@
         </tr>
         <tr>
             <td>7.</td>
-            <td></td>
-            <td></td>
+            <td>Öröklődés, felüldefiniálás, referenciák típusai</td>
+            <td><a hreF="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/a91e4612a6e2bdf0ff621d01b4dda4e5b2da6d9b/7.alkalom/Csharp-gyak_07.pdf">Jegyzet</a> | Megoldás</td>
         </tr>
         <tr>
             <td>8.</td>
