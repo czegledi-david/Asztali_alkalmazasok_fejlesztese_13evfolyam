@@ -41,7 +41,7 @@
         <tr>
             <td>7.</td>
             <td>Öröklődés, felüldefiniálás, referenciák típusai</td>
-            <td><a hreF="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/a91e4612a6e2bdf0ff621d01b4dda4e5b2da6d9b/7.alkalom/Csharp-gyak_07.pdf">Jegyzet</a> | Megoldás</td>
+            <td><a hreF="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/blob/a085cb05eec8dc7c82c1806db73399f77f3bad4c/7.alkalom/Csharp-gyak_07.pdf">Jegyzet</a> | <a href="https://github.com/czegledi-david/Asztali_alkalmazasok_fejlesztese_13evfolyam/tree/a085cb05eec8dc7c82c1806db73399f77f3bad4c/7.alkalom">Megoldás</a></td>
         </tr>
         <tr>
             <td>8.</td>
